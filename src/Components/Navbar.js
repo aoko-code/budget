@@ -5,5 +5,6 @@ function Navbar() {
     <div>Navbar</div>
   )
 }
+// install react bootstrap, react icons
 
 export default Navbar
